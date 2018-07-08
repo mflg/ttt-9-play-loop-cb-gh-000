@@ -38,8 +38,7 @@ end
 # Define your play method below
 
 def play()
-9.times do
+  9.times do
 
-end
-
+  end
 end
